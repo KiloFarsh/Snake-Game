@@ -1,13 +1,13 @@
 # 🐍 Snake
 
-Минималистичная змейка в темных тонах.
+A minimalist snake in dark colors.
 
-[🎮 Поиграть в мою змейку](https://kilofarsh.github.io/Snake-Game/)
+[🎮 Play my snake](https://kilofarsh.github.io/Snake-Game/)
 
-## 🕹 Управление
-* `Arrows` или `WASD` — движение.
-* `Space` или `P` — пауза.
-* Кнопка `Restart` — начать заново.
+## 🕹 Controls
+* `Arrows` or `WASD` — Move.
+* `Space` or `P` — Pause.
+* button `Restart` — Start over.
 
 ---
-*Запущен на GitHub Pages.*
+*Powered by GitHub Pages.*
