@@ -10,4 +10,4 @@ A minimalist snake in dark colors.
 * button `Restart` — Start over.
 
 ---
-*Powered by GitHub Pages.*
+*Works at the school :)*
