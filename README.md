@@ -2,7 +2,7 @@
 
 A minimalist snake in dark colors.
 
-[🎮 Play my snake](https://kilofarsh.github.io/Snake-Game/)
+[🎮 Play snake](https://kilofarsh.github.io/Snake-Game/)
 
 ## 🕹 Controls
 * `Arrows` or `WASD` — Move.
